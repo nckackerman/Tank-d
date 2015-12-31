@@ -1,9 +1,10 @@
 # Tank-d
 Completed Geometry wars clone in python/pygame
 
-Written early on in my software career. Code is extremely rough and ignores most best practices. Despite its obvious flaws, in the end it is a cool little application. 
+Written early on in my software career. Code is extremely rough and ignores most best practices. Despite its obvious flaws, it is a cool little application. 
 
-<a href="https://github.com/nckackerman/Tank-d/releases/download/v1.1/Tank.d.exe"> Click here to download an executable for this game</a>
+<a href="https://github.com/nckackerman/Tank-d/releases/download/v1.1/Tank.d.exe">Windows - Click here to download tank'd.exe</a>
+<a href="https://www.dropbox.com/s/dqb8gxhim22qmml/Mac%20OS%20-%20Tank'd.zip?dl=0">Mac - Click here to download tank'd.app</a>
 
 <b>Important!
 

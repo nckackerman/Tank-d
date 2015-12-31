@@ -9,7 +9,7 @@ Written early on in my software career. Code is extremely rough and ignores most
 
 <b>Important!
 
-The executable is unsigned and consequently your computer will warn you that you're opening something made by an unknown publisher. You can safely ignore the warning and open tank'd.exe anyways. Removing the warning would require paying a yearly fee that is not practical for this side project.</b>
+The executable is unsigned and consequently your computer will warn you that you're opening something made by an unknown publisher. You can safely ignore the warning and open tank'd.exe anyways. Removing the warning would require paying a yearly fee that is not practical for this project.</b>
 
 # F.A.Q
 Can I use this code?

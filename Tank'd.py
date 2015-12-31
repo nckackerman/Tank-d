@@ -685,6 +685,7 @@ def main():
         #pygame.time.wait(4)
         #stay in title screen till player selecets an input. include code to so if the left button is held the player will start moving to the left
         while titleScreen:
+            clock.tick(65)
             game.display_title(screen,game,background)
             titleScreen = game.titleScreenLogic(game,screen,background)
             constants.pauseTimeSinceStart = pygame.time.get_ticks() - constants.lastEndTime
